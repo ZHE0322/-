@@ -16,6 +16,6 @@
 ## 簡報：
 輸入介紹專題 PPT 簡報檔的檔名
 ## 海報：
-專題海報.png[https://github.com/ZHE0322/-/blob/main/%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1.png]
+專題海報.png(https://github.com/ZHE0322/-/blob/main/%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1.png)
 ## 介紹影片
 * [YouTube Link][([https://www.youtube.com/](https://www.youtube.com/watch?v=aySX75vxX4c))](https://www.youtube.com/watch?v=aySX75vxX4c)
